@@ -22,64 +22,53 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
-     showgrid="true"
-     inkscape:zoom="1.1476675"
-     inkscape:cx="50.101621"
-     inkscape:cy="279.69775"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
-    <inkscape:grid
-       type="xygrid"
-       id="grid9" />
-    <sodipodi:guide
-       position="0,512"
-       orientation="0,512"
-       id="guide11" />
-    <sodipodi:guide
-       position="512,512"
-       orientation="512,0"
-       id="guide13" />
-    <sodipodi:guide
-       position="512,0"
-       orientation="0,-512"
-       id="guide15" />
-    <sodipodi:guide
-       position="0,0"
-       orientation="-512,0"
-       id="guide17" />
-  </sodipodi:namedview>
+     showgrid="false"
+     inkscape:zoom="1.6230469"
+     inkscape:cx="325.00601"
+     inkscape:cy="272.63537"
+     inkscape:window-width="1284"
+     inkscape:window-height="1040"
+     inkscape:window-x="714"
+     inkscape:window-y="6"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5695" />
+    </marker>
+  </defs>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
      style="display:none">
-    <ellipse
-       style="stroke:#ff0000;stroke-width:12.9544;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path5207"
-       cx="256.39493"
-       cy="255.49973"
-       rx="249.49844"
-       ry="248.22775" />
+    <circle
+       style="stroke:#ff0000;stroke-width:64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path884"
+       cx="256.92419"
+       cy="256.92419"
+       r="213.79543" />
   </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     style="display:inline">
+     id="layer1">
     <path
-       style="fill:none;stroke:#00d0ff;stroke-width:53.259;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 336.81297,470 c 0,0 138.02547,-66.58553 140.71944,-215.90196 C 479.47114,146.64148 403.38678,42.025489 266.13737,36.165802 137.20425,30.661169 27.720265,127.62039 37.028239,273.20841 49.280814,464.85356 260.72861,479.51055 260.72861,479.51055 V 194.19421"
-       id="path201"
-       sodipodi:nodetypes="cssscc" />
-    <path
-       style="fill:none;stroke:#00d0ff;stroke-width:53.259;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 118.07044,194.19421 H 393.87623"
-       id="path4301" />
+       style="fill:none;stroke:#93deff;stroke-width:64;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 358.58484,167.58604 121.99278,260.00481 277.25632,200.8568 235.35981,471.95186 c 0,0 -187.489829,-21.297 -192.231049,-215.6438 C 40.454547,146.6897 129.95919,44.868306 255.07581,43.744886 373.08665,42.685268 476.92225,138.32559 470.71962,267.39831 463.30868,421.61524 317.92058,462.09386 317.92058,462.09386"
+       id="path857"
+       sodipodi:nodetypes="ccccsssc" />
   </g>
 </svg>
