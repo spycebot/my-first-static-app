@@ -11,14 +11,14 @@
 
 * {
   font-family: Arial, Helvetica, sans-serif;
-  border : 1px solid black;
+  /* border : 1px solid black; */
 }
 
 html, body {
   margin: 0;
   border: 0;
   padding: 0;
-  background-color: #f7f7f7;
+  background-color: #606470;
 }
 
 main {
@@ -44,12 +44,12 @@ main > img {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #323643;
+  color: #93deff;
   font-family: 'Russo One', sans-serif;
 }
 
 p {
-  color: #606470;
+  color: #323643;
   font-family: 'Titillium Web', sans-serif;
 }
 

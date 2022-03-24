@@ -5,4 +5,9 @@
     "azureFunctions.projectRuntime": "~4",
     "debug.internalConsoleOptions": "neverOpen",
     "azureFunctions.preDeployTask": "npm prune (functions)"
+    "liveServer.settings.proxy" : {
+        "enable" : true,
+        "baseUri": "/src/api"
+        "proxyUri": "http://127.0.0.1:5500/api"
+    }
 }

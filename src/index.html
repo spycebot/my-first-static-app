@@ -12,10 +12,18 @@
   <main>
     <img id="logo" src="images/icon.svg" />
     <h1>Terzo Technical</h1>
-    <p>Tuesday 23 MAR 2022</p>
+    <p><em>Updated: </em>Tuesday 23 MAR 2022</p>
     <p>Loading message from the API: <b id="name">...</b></p>
     <p>Light weight high performance</p>
   </main>
 </body>
+
+<script>
+  (async function() {
+    let { text } = await( await fetch(`/api/GetMessage`)).json();
+    document.querySelector('#name').textContent = text;
+  }())
+
+</script>
 
 </html>
