@@ -20,7 +20,7 @@
 
 <script>
   (async function() {
-    let { text } = await( await fetch(`/api/GetMessage`)).json();
+    let { text } = await( await fetch(`/api/HttpTrigger1`));
     document.querySelector('#name').textContent = text;
   }())
 

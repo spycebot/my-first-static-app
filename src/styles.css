@@ -1,8 +1,8 @@
 /*
-  Logo, Link Colour         #93deff : 147, 222, 255
-  Background Colour         #f7f7f7
-  Heading, bold, em Colour  #323643
-  Text Colour               #606470
+  Logo, Link Colour         #93deff : 147, 222, 255 azure
+  Background Colour         #f7f7f7 eggshell
+  Heading, bold, em Colour  #323643 dark slate
+  Text Colour               #606470 medium gray
   https://www.csscolorpalettes.com/palettes/1437
 */
 
@@ -18,7 +18,7 @@ html, body {
   margin: 0;
   border: 0;
   padding: 0;
-  background-color: #606470;
+  background-color: #f7f7f7;
 }
 
 main {
@@ -44,7 +44,7 @@ main > img {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #93deff;
+  color: #606470;
   font-family: 'Russo One', sans-serif;
 }
 
