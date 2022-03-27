@@ -20,8 +20,16 @@
 
 <script>
   (async function() {
-    let { text } = await( await fetch(`/api/HttpTrigger1`));
+    
+    let { text } = await( await fetch('/api/HttpTrigger1')).json();
+    // let text = await( await fetch('/api/HttpTrigger1')).json();
     document.querySelector('#name').textContent = text;
+    /*
+    // Same Error
+    const response = await fetch('/api/HttpTrigger1')
+    let { text } = response.json()
+    document.querySelector('#name').textContent = text;
+    */
   }())
 
 </script>
